@@ -1,0 +1,18 @@
+{
+  "name": "ntrip",
+  "version": "1.0.0",
+  "description": "Networked Transport of RTCM via Internet Protocol",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ntrip"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  }
+}
